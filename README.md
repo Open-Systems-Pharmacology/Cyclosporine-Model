@@ -8,6 +8,10 @@ The presented PBPK model of cyclosporine has been developed to be used in a PBPK
 - a PK-Sim project file of the current PBPK model
 - a PK-Sim snapshot (*.json) file of the current PBPK model
 
+## Version information
+
+PK-Sim Version 9.1
+
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
 
