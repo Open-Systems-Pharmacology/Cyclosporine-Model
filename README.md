@@ -1,8 +1,12 @@
 # Cyclosporine-Model
-**_tbd._**
+Whole-body PBPK model of cyclosporine as inhibitor of the breast cancer resistance protein (BCRP) transport protein.
+
+The presented PBPK model of cyclosporine has been developed to be used in a PBPK Drug-Drug-Interactions (DDI) network with cyclosporine as inhibitor of BCRP. The development of this model is described in the publication by Schaller *et al.* [[1](https://github.com/Open-Systems-Pharmacology/Cyclosporine-Model?tab=readme-ov-file#references)]
 
 ## Repository files
-**_tbd._**
+
+- a PK-Sim project file of the current PBPK model
+- a PK-Sim snapshot (*.json) file of the current PBPK model
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
